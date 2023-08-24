@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\refint\ExercicioLista.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ref\ExercicioLista.dll

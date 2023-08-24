@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\bin\Debug\net7.0\CourseEnum.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\bin\Debug\net7.0\CourseEnum.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\bin\Debug\net7.0\CourseEnum.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\bin\Debug\net7.0\CourseEnum.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\bin\Debug\net7.0\CourseEnum.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\refint\CourseEnum.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\CourseEnum.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\CourseEnum\CourseEnum\obj\Debug\net7.0\ref\CourseEnum.dll

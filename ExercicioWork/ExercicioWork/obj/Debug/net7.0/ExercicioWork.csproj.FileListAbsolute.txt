@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\bin\Debug\net7.0\ExercicioWork.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\bin\Debug\net7.0\ExercicioWork.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\bin\Debug\net7.0\ExercicioWork.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\bin\Debug\net7.0\ExercicioWork.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\bin\Debug\net7.0\ExercicioWork.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\refint\ExercicioWork.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ExercicioWork.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioWork\ExercicioWork\obj\Debug\net7.0\ref\ExercicioWork.dll

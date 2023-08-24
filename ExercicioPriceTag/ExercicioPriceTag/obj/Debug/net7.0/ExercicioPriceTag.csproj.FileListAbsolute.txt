@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\bin\Debug\net7.0\ExercicioPriceTag.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\bin\Debug\net7.0\ExercicioPriceTag.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\bin\Debug\net7.0\ExercicioPriceTag.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\bin\Debug\net7.0\ExercicioPriceTag.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\bin\Debug\net7.0\ExercicioPriceTag.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\refint\ExercicioPriceTag.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ExercicioPriceTag.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPriceTag\ExercicioPriceTag\obj\Debug\net7.0\ref\ExercicioPriceTag.dll

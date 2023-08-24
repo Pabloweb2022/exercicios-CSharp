@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\bin\Debug\net7.0\ExercicioPost.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\bin\Debug\net7.0\ExercicioPost.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\bin\Debug\net7.0\ExercicioPost.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\bin\Debug\net7.0\ExercicioPost.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\bin\Debug\net7.0\ExercicioPost.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\refint\ExercicioPost.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ExercicioPost.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPost\ExercicioPost\obj\Debug\net7.0\ref\ExercicioPost.dll

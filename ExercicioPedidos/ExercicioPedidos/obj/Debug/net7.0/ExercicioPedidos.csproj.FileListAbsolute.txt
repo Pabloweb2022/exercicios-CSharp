@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\refint\ExercicioPedidos.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercicioPedidos\ExercicioPedidos\obj\Debug\net7.0\ref\ExercicioPedidos.dll

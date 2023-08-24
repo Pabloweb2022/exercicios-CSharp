@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\bin\Debug\net7.0\ExercInterfaces.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\bin\Debug\net7.0\ExercInterfaces.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\bin\Debug\net7.0\ExercInterfaces.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\bin\Debug\net7.0\ExercInterfaces.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\bin\Debug\net7.0\ExercInterfaces.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\refint\ExercInterfaces.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ExercInterfaces.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercInterfaces\ExercInterfaces\obj\Debug\net7.0\ref\ExercInterfaces.dll
