@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\bin\Debug\net7.0\ExercConjunto.exe
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\bin\Debug\net7.0\ExercConjunto.deps.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\bin\Debug\net7.0\ExercConjunto.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\bin\Debug\net7.0\ExercConjunto.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\bin\Debug\net7.0\ExercConjunto.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\refint\ExercConjunto.dll
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.pdb
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ExercConjunto.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documentos\estudosCsharp\ExercConjunto\ExercConjunto\obj\Debug\net7.0\ref\ExercConjunto.dll
